@@ -7,7 +7,7 @@ Connect Gro to Claude Code and generate, refine, and launch ads directly from yo
 ## Install
 
 ```bash
-npx skills add groteam/gro-skills
+npx skills add stardust-nxtrinity/gro-skills
 ```
 
 ## Setup
