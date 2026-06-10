@@ -1,0 +1,27 @@
+{
+  "name": "gro-skills",
+  "description": "Gro AI ad agent skills for Claude Code",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "gro-image",
+      "file": "skills/gro-image.md",
+      "command": "gro:image"
+    },
+    {
+      "name": "gro-video",
+      "file": "skills/gro-video.md",
+      "command": "gro:video"
+    },
+    {
+      "name": "gro-copy",
+      "file": "skills/gro-copy.md",
+      "command": "gro:copy"
+    },
+    {
+      "name": "gro-launch",
+      "file": "skills/gro-launch.md",
+      "command": "gro:launch"
+    }
+  ]
+}
